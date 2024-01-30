@@ -1,3 +1,3 @@
 ## Tutorial
 
-This is just to refresh my knowledge github pages and how it works
+This is just to refresh my knowledge on github pages and how it works
